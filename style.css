@@ -28,7 +28,7 @@ body {
   width: 100%;
 }
 .image {
-  background-image: url(./images/illustration-hero.svg);
+  background-image: url(images/illustration-hero.svg);
   border-radius: 20px 20px 0 0;
   background-size: cover;
 }
